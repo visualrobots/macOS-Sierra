@@ -1,7 +1,7 @@
-# macOS Sierra 
-###Theme reproducing the clean and bright look of Apple's OS ###
+# macOS Sierra (dark)
+###Theme reproducing the clean and bright look of Apple's OS (but in dark mode) ###
 
-![macOS-Sierra-OS-X](http://b00merang.weebly.com/uploads/1/6/8/1/16813022/1279540_orig.png)
+![macOS-Sierra-OS-X](http://b00merang.weebly.com/uploads/1/6/8/1/16813022/screenshot-2016-12-21-09-36-50_orig.png)
 
 **Maintainer :** [Elbullazul](https://github.com/Elbullazul)
 
