@@ -48,7 +48,7 @@
 <icon  x="(0 `max` (width-title_width-mini_icon_width-IconTitleSpacing)) / 2 + mini_icon_width + IconTitleSpacing -70"
          y="(height-mini_icon_height) / 2 + 2"
          width="mini_icon_width-1" height="mini_icon_height-1"/>
-<title color="#4c4c4c" x="(0 `max` (width-title_width-mini_icon_width-IconTitleSpacing)) / 2 + mini_icon_width + IconTitleSpacing -48" y="(height - title_height) / 2"/> 
+<title color="#f1f1f1" x="(0 `max` (width-title_width-mini_icon_width-IconTitleSpacing)) / 2 + mini_icon_width + IconTitleSpacing -48" y="(height - title_height) / 2"/> 
 </draw_ops>
 
 <draw_ops name="title-text-unfocused">
@@ -56,7 +56,7 @@
 <icon  x="(0 `max` (width-title_width-mini_icon_width-IconTitleSpacing)) / 2 + mini_icon_width + IconTitleSpacing -70"
          y="(height-mini_icon_height) / 2 + 2"
          width="mini_icon_width-1" height="mini_icon_height-1"/>
- <title color="#9f9f9f" x="(0 `max` (width-title_width-mini_icon_width-IconTitleSpacing)) / 2 + mini_icon_width + IconTitleSpacing -48" y="(height - title_height) / 2"/>  
+ <title color="#8c8c8c" x="(0 `max` (width-title_width-mini_icon_width-IconTitleSpacing)) / 2 + mini_icon_width + IconTitleSpacing -48" y="(height - title_height) / 2"/>  
 </draw_ops>
 
 <draw_ops name="blank">
@@ -64,62 +64,62 @@
 
 <draw_ops name="title">
   <gradient type="vertical" x="0" y="0" width="width" height="height">
-    <color value="#efefef"/>
-    <color value="#f0f0f0"/>
+    <color value="#474747"/>
+    <color value="#373737"/>
   </gradient>
 </draw_ops>
 
 <draw_ops name="title-shaded">
   <gradient type="vertical" x="0" y="0" width="width" height="height">
-    <color value="#efefef"/>
-    <color value="#f0f0f0"/>
+    <color value="#474747"/>
+    <color value="#373737"/>
   </gradient>
 </draw_ops>
 
 <draw_ops name="title-unfocused">
-  <rectangle color="#e4e4e4" x="0" y="0" width="width" 
+  <rectangle color="#545454" x="0" y="0" width="width" 
     height="height" filled="true"/>
 </draw_ops>
 
 <draw_ops name="title-max">
   <gradient type="vertical" x="0" y="0" width="width" height="height">
-    <color value="#efefef"/>
-    <color value="#f0f0f0"/>
+    <color value="#474747"/>
+    <color value="#373737"/>
   </gradient>
 </draw_ops>
 
 <draw_ops name="title-max-unfocused">
-  <rectangle color="#e4e4e4" x="0" y="0" width="width" 
+  <rectangle color="#545454" x="0" y="0" width="width" 
     height="height" filled="true"/>
 </draw_ops>
 
 <draw_ops name="frame-left-focused">
-  <rectangle color="#e4e4e4" x="0" y="0" width="width" 
+  <rectangle color="#373737" x="0" y="0" width="width" 
     height="height" filled="true"/>
 </draw_ops>
 
 <draw_ops name="frame-left-unfocused">
-  <rectangle color="#e4e4e4" x="0" y="0" width="width" 
+  <rectangle color="#545454" x="0" y="0" width="width" 
     height="height" filled="true"/>
 </draw_ops>
 
 <draw_ops name="frame-right-focused">
-  <rectangle color="#e4e4e4" x="0" y="0" width="width" 
+  <rectangle color="#373737" x="0" y="0" width="width" 
     height="height" filled="true"/>
 </draw_ops>
 
 <draw_ops name="frame-right-unfocused">
-  <rectangle color="#e4e4e4" x="0" y="0" width="width" 
+  <rectangle color="#545454" x="0" y="0" width="width" 
     height="height" filled="true"/>
 </draw_ops>
 
 <draw_ops name="frame-bottom-focused">
-  <rectangle color="#e4e4e4" x="0" y="0" width="width" 
+  <rectangle color="#373737" x="0" y="0" width="width" 
     height="height" filled="true"/>
 </draw_ops>
 
 <draw_ops name="frame-bottom-unfocused">
-  <rectangle color="#e4e4e4" x="0" y="0" width="width" 
+  <rectangle color="#545454" x="0" y="0" width="width" 
     height="height" filled="true"/>
 </draw_ops>
 

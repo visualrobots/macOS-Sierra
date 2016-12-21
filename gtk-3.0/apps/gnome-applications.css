@@ -159,8 +159,8 @@ NautilusQueryEditor .search-bar.toolbar:only-child {
  * gnome terminal *
  ******************/
 VteTerminal {
-    background-color: white;
-    color: black;
+    background-color: black;
+    color: white;
 }
 
 TerminalWindow GtkNotebook.notebook {
