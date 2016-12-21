@@ -176,7 +176,7 @@ StScrollBar StButton#hhandle {
 .popup-menu-boxpointer {
     -arrow-background-image: none;
     -arrow-border-color: #3c4041;
-    -boxpointer-gap: 0;
+    -boxpointer-gap: 3px;
     -arrow-border-radius: 16px;
     -arrow-border-width: 0px;
 }
@@ -356,7 +356,7 @@ StScrollBar StButton#hhandle {
 #panel {
     background-color: rgba(245,255,255,0.7);
     box-shadow: 0 0 6px 6px rgba(20,20,20,0.5);
-    outline: 1px transparent;
+    outline: none;
     color: #326b65;
     font-size: 9pt;
     height: 26px;
