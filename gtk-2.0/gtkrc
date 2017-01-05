@@ -616,7 +616,7 @@ style "chromium-toolbar-button" {
 
 style "chrome-gtk-frame" {
 	ChromeGtkFrame::frame-color = @titlebar_bg_color
-	ChromeGtkFrame::inactive-frame-color = @titlebar_bg_color
+	ChromeGtkFrame::inactive-frame-color = "#545454"
 
 	ChromeGtkFrame::frame-gradient-size = 0
 	ChromeGtkFrame::frame-gradient-color = @titlebar_bg_color
